@@ -1,0 +1,22 @@
+
+
+1.报redis配置找不到，原因是找不到redis服务
+
+解决方案一：
+在heima-leadnews-user服务中的bootstrap.yml文件中添加配置忽略，如下：
+
+spring:
+  #忽略掉配置类
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.data.redis.RedisAutoConfiguration
+
+注意：后期如果heima-leadnews-user服务需要依赖于redis，则需要把上述配置注释或删除
+
+
+解决方案二：
+在heima-leadnews-user服务中的bootstrap.yml文件中添加redis配置（需要安装redis服务）
+spring:
+  redis:
+    host: localhost
+    port: 6379
+    password: leadnews

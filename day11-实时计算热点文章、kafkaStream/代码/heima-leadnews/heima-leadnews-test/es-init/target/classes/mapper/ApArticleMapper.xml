@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.heima.es.mapper.ApArticleMapper">
+
+    <resultMap id="resultMap" type="com.heima.es.pojo.SearchArticleVo">
+        <id column="id" property="id"/>
+        <result column="title" property="title"/>
+        <result column="author_id" property="authorId"/>
+        <result column="author_name" property="authorName"/>
+        <result column="layout" property="layout"/>
+        <result column="images" property="images"/>
+        <result column="publish_time" property="publishTime"/>
+        <result column="static_url" property="staticUrl"/>
+        <result column="content" property="content"/>
+    </resultMap>
+    <select id="loadArticleList" resultMap="resultMap">
+        SELECT
+            aa.*, aacon.content
+        FROM
+            `ap_article` aa,
+            ap_article_config aac,
+            ap_article_content aacon
+        WHERE
+            aa.id = aac.article_id
+          AND aa.id = aacon.article_id
+          AND aac.is_delete != 1
+          AND aac.is_down != 1
+
+    </select>
+
+</mapper>

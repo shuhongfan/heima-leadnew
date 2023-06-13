@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews.iml" filepath="$PROJECT_DIR$/heima-leadnews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-app-gateway/heima-leadnews-app-gateway.iml" filepath="$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-app-gateway/heima-leadnews-app-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-common/heima-leadnews-common.iml" filepath="$PROJECT_DIR$/heima-leadnews-common/heima-leadnews-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-feign-api/heima-leadnews-feign-api.iml" filepath="$PROJECT_DIR$/heima-leadnews-feign-api/heima-leadnews-feign-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-gateway.iml" filepath="$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-model/heima-leadnews-model.iml" filepath="$PROJECT_DIR$/heima-leadnews-model/heima-leadnews-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-service.iml" filepath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-test/heima-leadnews-test.iml" filepath="$PROJECT_DIR$/heima-leadnews-test/heima-leadnews-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-user/heima-leadnews-user.iml" filepath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-user/heima-leadnews-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-utils/heima-leadnews-utils.iml" filepath="$PROJECT_DIR$/heima-leadnews-utils/heima-leadnews-utils.iml" />
+    </modules>
+  </component>
+</project>

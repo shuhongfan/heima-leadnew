@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="freemarker-demo" />
+        <module name="heima-file-starter" />
+        <module name="minio-demo" />
+        <module name="heima-leadnews-wemedia-gateway" />
+        <module name="heima-leadnews-wemedia" />
+        <module name="tess4j-demo" />
+        <module name="heima-leadnews-behavior" />
+        <module name="heima-leadnews-feign-api" />
+        <module name="heima-leadnews-user" />
+        <module name="heima-leadnews-article" />
+        <module name="kafka-demo" />
+        <module name="xxljob-demo" />
+        <module name="es-init" />
+        <module name="heima-leadnews-schedule" />
+        <module name="heima-leadnews-comment" />
+        <module name="heima-leadnews-utils" />
+        <module name="heima-leadnews-app-gateway" />
+        <module name="heima-leadnews-search" />
+        <module name="heima-leadnews-common" />
+        <module name="mongo-demo" />
+        <module name="heima-leadnews-model" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="es-init" target="1.8" />
+      <module name="freemarker-demo" target="1.8" />
+      <module name="heima-file-starter" target="1.8" />
+      <module name="heima-leadnews" target="1.8" />
+      <module name="heima-leadnews-apis" target="1.8" />
+      <module name="heima-leadnews-app-gateway" target="1.8" />
+      <module name="heima-leadnews-article" target="1.8" />
+      <module name="heima-leadnews-basic" target="1.8" />
+      <module name="heima-leadnews-behavior" target="1.8" />
+      <module name="heima-leadnews-comment" target="1.8" />
+      <module name="heima-leadnews-common" target="1.8" />
+      <module name="heima-leadnews-feign-api" target="1.8" />
+      <module name="heima-leadnews-gateway" target="1.8" />
+      <module name="heima-leadnews-model" target="1.8" />
+      <module name="heima-leadnews-schedule" target="1.8" />
+      <module name="heima-leadnews-search" target="1.8" />
+      <module name="heima-leadnews-service" target="1.8" />
+      <module name="heima-leadnews-test" target="1.8" />
+      <module name="heima-leadnews-user" target="1.8" />
+      <module name="heima-leadnews-utils" target="1.8" />
+      <module name="heima-leadnews-wemedia" target="1.8" />
+      <module name="heima-leadnews-wemedia-gateway" target="1.8" />
+      <module name="kafka-demo" target="1.8" />
+      <module name="minio-demo" target="1.8" />
+      <module name="mongo-demo" target="1.8" />
+      <module name="tess4j-demo" target="1.8" />
+      <module name="xxljob-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="es-init" options="-parameters" />
+      <module name="freemarker-demo" options="-parameters" />
+      <module name="heima-file-starter" options="-parameters" />
+      <module name="heima-leadnews-apis" options="-parameters" />
+      <module name="heima-leadnews-app-gateway" options="-parameters" />
+      <module name="heima-leadnews-article" options="-parameters" />
+      <module name="heima-leadnews-behavior" options="-parameters" />
+      <module name="heima-leadnews-comment" options="-parameters" />
+      <module name="heima-leadnews-common" options="-parameters" />
+      <module name="heima-leadnews-feign-api" options="-parameters" />
+      <module name="heima-leadnews-gateway" options="" />
+      <module name="heima-leadnews-model" options="-parameters" />
+      <module name="heima-leadnews-schedule" options="-parameters" />
+      <module name="heima-leadnews-search" options="-parameters" />
+      <module name="heima-leadnews-service" options="" />
+      <module name="heima-leadnews-test" options="" />
+      <module name="heima-leadnews-user" options="-parameters" />
+      <module name="heima-leadnews-utils" options="-parameters" />
+      <module name="heima-leadnews-wemedia" options="-parameters" />
+      <module name="heima-leadnews-wemedia-gateway" options="-parameters" />
+      <module name="kafka-demo" options="-parameters" />
+      <module name="minio-demo" options="-parameters" />
+      <module name="mongo-demo" options="-parameters" />
+      <module name="tess4j-demo" options="-parameters" />
+      <module name="xxljob-demo" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+server:
+  port: 51802
+spring:
+  kafka:
+    bootstrap-servers: 192.168.200.130:9092
+    consumer:
+      group-id: ${spring.application.name}
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+  application:
+    name: leadnews-article
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.200.130:8848
+      config:
+        server-addr: 192.168.200.130:8848
+        file-extension: yml
+xxl:
+  job:
+    admin:
+      addresses: http://192.168.200.130:8888/xxl-job-admin
+    executor:
+      appname: leadnews-hot-article-executor
+      port: 9999
+kafka:
+  hosts: 192.168.200.130:9092
+  group: ${spring.application.name}

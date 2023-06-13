@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "minio",
+      "type": "com.heima.file.config.MinIOConfigProperties",
+      "sourceType": "com.heima.file.config.MinIOConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "minio.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.file.config.MinIOConfigProperties"
+    },
+    {
+      "name": "minio.bucket",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.file.config.MinIOConfigProperties"
+    },
+    {
+      "name": "minio.endpoint",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.file.config.MinIOConfigProperties"
+    },
+    {
+      "name": "minio.read-path",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.file.config.MinIOConfigProperties"
+    },
+    {
+      "name": "minio.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.file.config.MinIOConfigProperties"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,2 @@
+webpackJsonp([11],{"+H76":function(t,n,e){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var t=this,n=t.$createElement,r=t._self._c||n;return r("div",{staticClass:"nofound"},[r("img",{attrs:{src:e("osS6"),alt:""},on:{click:function(n){return t.$router.replace({path:"/"})}}})])},staticRenderFns:[]};var a=e("VU/8")(null,r,!1,function(t){e("anMo")},"data-v-50d26d21",null);n.default=a.exports},anMo:function(t,n){},osS6:function(t,n,e){t.exports=e.p+"static/img/404.38b07fb.png"}});
+//# sourceMappingURL=11.48995bb146b40c0de3e0.js.map

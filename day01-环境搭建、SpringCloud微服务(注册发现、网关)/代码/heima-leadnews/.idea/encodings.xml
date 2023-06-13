@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/heima-leadnews-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-leadnews-feign-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-app-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-leadnews-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heima-leadnews-utils/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
