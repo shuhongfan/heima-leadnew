@@ -1,0 +1,17 @@
+2023/06/20 18:31:05 [notice] 12108#24092: signal process started
+2023/06/20 18:31:10 [notice] 18512#15712: signal process started
+2023/06/20 18:32:58 [notice] 6336#23832: signal process started
+2023/06/20 18:33:22 [notice] 23576#22444: signal process started
+2023/06/20 18:33:42 [notice] 7328#20348: signal process started
+2023/06/20 18:37:54 [notice] 13504#18676: signal process started
+2023/06/20 18:37:58 [error] 14616#9128: *1 "./app-web/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "127.0.0.1:8801"
+2023/06/20 18:37:58 [error] 14616#9128: *1 CreateFile() "./app-web/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8801", referrer: "http://127.0.0.1:8801/"
+2023/06/20 18:38:21 [notice] 7552#21720: signal process started
+2023/06/20 18:38:24 [error] 14616#9128: *2 "./app-web/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "127.0.0.1:8801"
+2023/06/20 18:39:02 [emerg] 14660#21552: invalid number of arguments in "root" directive in C:\Users\shuho\IdeaProjects\heima-leadnew\nginx-1.24.0/conf/leadnews.conf/heima-leadnews-app.conf:9
+2023/06/20 18:39:26 [notice] 9496#20312: signal process started
+2023/06/20 18:39:46 [error] 20208#25096: *7 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "POST /app/user/api/v1/login/login_auth/ HTTP/1.1", upstream: "http://[::1]:51601/user/api/v1/login/login_auth/", host: "127.0.0.1:8801", referrer: "http://127.0.0.1:8801/"
+2023/06/20 18:39:47 [error] 20208#25096: *6 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "POST /app/user/api/v1/login/login_auth/ HTTP/1.1", upstream: "http://127.0.0.1:51601/user/api/v1/login/login_auth/", host: "127.0.0.1:8801", referrer: "http://127.0.0.1:8801/"
+2023/06/20 18:39:47 [error] 20208#25096: *6 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "POST /app/user/api/v1/login/login_auth/ HTTP/1.1", upstream: "http://heima-app-gateway/user/api/v1/login/login_auth/", host: "127.0.0.1:8801", referrer: "http://127.0.0.1:8801/"
+2023/06/20 18:39:48 [error] 20208#25096: *7 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "POST /app/user/api/v1/login/login_auth/ HTTP/1.1", upstream: "http://127.0.0.1:51601/user/api/v1/login/login_auth/", host: "127.0.0.1:8801", referrer: "http://127.0.0.1:8801/"
+2023/06/20 18:39:48 [error] 20208#25096: *7 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "POST /app/user/api/v1/login/login_auth/ HTTP/1.1", upstream: "http://heima-app-gateway/user/api/v1/login/login_auth/", host: "127.0.0.1:8801", referrer: "http://127.0.0.1:8801/"
