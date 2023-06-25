@@ -1,0 +1,5 @@
+com\heima\file\service\FileStorageService.class
+com\heima\file\config\MinIOConfig.class
+com\heima\file\service\impl\MinIOFileStorageService.class
+META-INF\spring-configuration-metadata.json
+com\heima\file\config\MinIOConfigProperties.class

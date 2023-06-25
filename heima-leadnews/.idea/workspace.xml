@@ -4,128 +4,72 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a3e88a0-aebd-423d-be52-becf0131b5d5" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../day02-app端文章查看，静态化freemarker,分布式文件系统minIO/资料/heima-leadnews-basic/heima-file-starter/heima-file-starter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02-app端文章查看，静态化freemarker,分布式文件系统minIO/资料/heima-leadnews-basic/heima-file-starter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02-app端文章查看，静态化freemarker,分布式文件系统minIO/资料/heima-leadnews-basic/heima-file-starter/src/main/java/com/heima/file/config/MinIOConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02-app端文章查看，静态化freemarker,分布式文件系统minIO/资料/heima-leadnews-basic/heima-file-starter/src/main/java/com/heima/file/config/MinIOConfigProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02-app端文章查看，静态化freemarker,分布式文件系统minIO/资料/heima-leadnews-basic/heima-file-starter/src/main/java/com/heima/file/service/FileStorageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02-app端文章查看，静态化freemarker,分布式文件系统minIO/资料/heima-leadnews-basic/heima-file-starter/src/main/java/com/heima/file/service/impl/MinIOFileStorageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02-app端文章查看，静态化freemarker,分布式文件系统minIO/资料/heima-leadnews-basic/heima-file-starter/src/main/resources/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02-app端文章查看，静态化freemarker,分布式文件系统minIO/资料/heima-leadnews-basic/heima-file-starter/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02-app端文章查看，静态化freemarker,分布式文件系统minIO/资料/heima-leadnews-basic/heima-file-starter/target/classes/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02-app端文章查看，静态化freemarker,分布式文件系统minIO/资料/heima-leadnews-basic/heima-file-starter/target/classes/com/heima/file/config/MinIOConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02-app端文章查看，静态化freemarker,分布式文件系统minIO/资料/heima-leadnews-basic/heima-file-starter/target/classes/com/heima/file/config/MinIOConfigProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02-app端文章查看，静态化freemarker,分布式文件系统minIO/资料/heima-leadnews-basic/heima-file-starter/target/classes/com/heima/file/service/FileStorageService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02-app端文章查看，静态化freemarker,分布式文件系统minIO/资料/heima-leadnews-basic/heima-file-starter/target/classes/com/heima/file/service/impl/MinIOFileStorageService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02-app端文章查看，静态化freemarker,分布式文件系统minIO/资料/heima-leadnews-basic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day12-项目部署 持续集成发布Jenkins+Git+Docker/代码/heima-leadnews/heima-leadnews-test/es-init/target/classes/com/heima/es/EsInitApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day12-项目部署 持续集成发布Jenkins+Git+Docker/代码/heima-leadnews/heima-leadnews-test/es-init/target/classes/com/heima/es/config/ElasticSearchConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day12-项目部署 持续集成发布Jenkins+Git+Docker/代码/heima-leadnews/heima-leadnews-test/es-init/target/classes/com/heima/es/mapper/ApArticleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day12-项目部署 持续集成发布Jenkins+Git+Docker/代码/heima-leadnews/heima-leadnews-test/es-init/target/classes/com/heima/es/pojo/SearchArticleVo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day12-项目部署 持续集成发布Jenkins+Git+Docker/代码/heima-leadnews/heima-leadnews-test/es-init/target/test-classes/com/heima/es/ApArticleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day12-项目部署 持续集成发布Jenkins+Git+Docker/代码/heima-leadnews/heima-leadnews-test/freemarker-demo/target/classes/com/heima/freemarker/FreemarkerDemoApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day12-项目部署 持续集成发布Jenkins+Git+Docker/代码/heima-leadnews/heima-leadnews-test/freemarker-demo/target/classes/com/heima/freemarker/controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day12-项目部署 持续集成发布Jenkins+Git+Docker/代码/heima-leadnews/heima-leadnews-test/freemarker-demo/target/classes/com/heima/freemarker/entity/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day12-项目部署 持续集成发布Jenkins+Git+Docker/代码/heima-leadnews/heima-leadnews-test/freemarker-demo/target/test-classes/com/heima/freemarker/test/FreemarkerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-basic/heima-file-starter/heima-file-starter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-basic/heima-file-starter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-basic/heima-file-starter/src/main/java/com/heima/file/config/MinIOConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-basic/heima-file-starter/src/main/java/com/heima/file/config/MinIOConfigProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-basic/heima-file-starter/src/main/java/com/heima/file/service/FileStorageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-basic/heima-file-starter/src/main/java/com/heima/file/service/impl/MinIOFileStorageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-basic/heima-file-starter/src/main/resources/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-basic/heima-file-starter/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-basic/heima-file-starter/target/classes/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-basic/heima-file-starter/target/classes/com/heima/file/config/MinIOConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-basic/heima-file-starter/target/classes/com/heima/file/config/MinIOConfigProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-basic/heima-file-starter/target/classes/com/heima/file/service/FileStorageService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-basic/heima-file-starter/target/classes/com/heima/file/service/impl/MinIOFileStorageService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-basic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-common/src/main/java/com/heima/common/constants/ArticleConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/heima-leadnews-article.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/src/main/java/com/heima/article/ArticleApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/src/main/java/com/heima/article/controller/v1/ArticleHomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/src/main/java/com/heima/article/mapper/ApArticleContentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/src/main/java/com/heima/article/mapper/ApArticleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/src/main/java/com/heima/article/service/ApArticleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/src/main/java/com/heima/article/service/impl/ApArticleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/src/main/resources/mapper/ApArticleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/src/main/resources/templates/article.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/src/test/java/com/heima/article/test/ArticleFreemarkerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/target/classes/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/target/classes/com/heima/article/ArticleApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/target/classes/com/heima/article/controller/v1/ArticleHomeController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/target/classes/com/heima/article/mapper/ApArticleContentMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/target/classes/com/heima/article/mapper/ApArticleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/target/classes/com/heima/article/service/ApArticleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/target/classes/com/heima/article/service/impl/ApArticleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/target/classes/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/target/classes/mapper/ApArticleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/target/classes/templates/article.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/target/test-classes/com/heima/article/test/ArticleFreemarkerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-test/freemarker-demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-test/freemarker-demo/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-test/freemarker-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-test/freemarker-demo/src/main/java/com/heima/freemarker/FreemarkerDemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-test/freemarker-demo/src/main/java/com/heima/freemarker/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-test/freemarker-demo/src/main/java/com/heima/freemarker/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-test/freemarker-demo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-test/freemarker-demo/src/main/resources/templates/01-basic.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-test/freemarker-demo/src/main/resources/templates/02-list.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-test/freemarker-demo/src/test/java/com/heima/freemarker/test/FreemarkerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-test/minio-demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-test/minio-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-test/minio-demo/src/main/java/com/heima/minio/MinIOApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-test/minio-demo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-test/minio-demo/src/test/java/com/heima/minio/test/MinIOStaterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima-leadnews-test/minio-demo/src/test/java/com/heima/minio/test/MinIOTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/heima-leadnew.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/sqldialects.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day12-项目部署 持续集成发布Jenkins+Git+Docker/代码/heima-leadnews/.idea/dataSources/35152c03-6c0d-4dd0-a706-9bb5a053887a/storage_v2/_src_/schema/sakila.oXLGyQ.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../day12-项目部署 持续集成发布Jenkins+Git+Docker/代码/heima-leadnews/.idea/dataSources/35152c03-6c0d-4dd0-a706-9bb5a053887a/storage_v2/_src_/schema/sakila.oXLGyQ.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day12-项目部署 持续集成发布Jenkins+Git+Docker/代码/heima-leadnews/.idea/dataSources/35152c03-6c0d-4dd0-a706-9bb5a053887a/storage_v2/_src_/schema/sys.zb4BAA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../day12-项目部署 持续集成发布Jenkins+Git+Docker/代码/heima-leadnews/.idea/dataSources/35152c03-6c0d-4dd0-a706-9bb5a053887a/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day12-项目部署 持续集成发布Jenkins+Git+Docker/代码/heima-leadnews/heima-leadnews-service/heima-leadnews-article/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day12-项目部署 持续集成发布Jenkins+Git+Docker/代码/heima-leadnews/heima-leadnews-service/heima-leadnews-article/src/main/resources/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="7a3e88a0-aebd-423d-be52-becf0131b5d5" name="更改" comment="day03-自媒体文章发布">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-common/src/main/java/com/heima/common/constants/WemediaConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-wemedia-gateway/heima-leadnews-wemedia-gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-wemedia-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-wemedia-gateway/src/main/java/com/heima/wemedia/gateway/WemediaGatewayAplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-wemedia-gateway/src/main/java/com/heima/wemedia/gateway/filter/AuthorizeFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-wemedia-gateway/src/main/java/com/heima/wemedia/gateway/util/AppJwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-wemedia-gateway/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-wemedia-gateway/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-wemedia-gateway/target/classes/com/heima/wemedia/gateway/WemediaGatewayAplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-wemedia-gateway/target/classes/com/heima/wemedia/gateway/filter/AuthorizeFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-wemedia-gateway/target/classes/com/heima/wemedia/gateway/util/AppJwtUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/heima-leadnews-wemedia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/WemediaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/config/WebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/controller/v1/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/controller/v1/WmMaterialController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/controller/v1/WmNewsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/controller/v1/WmchannelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/interceptor/WmTokenInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/mapper/WmChannelMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/mapper/WmMaterialMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/mapper/WmNewsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/mapper/WmNewsMaterialMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/mapper/WmUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/service/WmChannelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/service/WmMaterialService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/service/WmNewsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/service/WmUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/service/impl/WmChannelServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/service/impl/WmMaterialServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/service/impl/WmNewsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/service/impl/WmUserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/resources/mapper/WmNewsMaterialMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/target/classes/com/heima/wemedia/WemediaApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/target/classes/com/heima/wemedia/controller/v1/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/target/classes/com/heima/wemedia/mapper/WmUserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/target/classes/com/heima/wemedia/service/WmUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/target/classes/com/heima/wemedia/service/impl/WmUserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima-leadnews-utils/src/main/java/com/heima/utils/thread/WmThreadLocalUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cd493e67-a8ee-4bdf-9e79-11735b0bafb1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cd493e67-a8ee-4bdf-9e79-11735b0bafb1/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cd493e67-a8ee-4bdf-9e79-11735b0bafb1/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cd493e67-a8ee-4bdf-9e79-11735b0bafb1/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cd493e67-a8ee-4bdf-9e79-11735b0bafb1/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_streams_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_rocksdb_rocksdbjni_5_7_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_2_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/AppGatewayApplication.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/UserApplication.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima-leadnews-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/heima-leadnews-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/heima-leadnews-article.iml" beforeDir="false" afterPath="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-article/heima-leadnews-article.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/heima-leadnews-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/heima-leadnews-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima-leadnews-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/heima-leadnews-test/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nginx-1.24.0/logs/access.log" beforeDir="false" afterPath="$PROJECT_DIR$/../nginx-1.24.0/logs/access.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nginx-1.24.0/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/../nginx-1.24.0/logs/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nginx-1.24.0/logs/nginx.pid" beforeDir="false" afterPath="$PROJECT_DIR$/../nginx-1.24.0/logs/nginx.pid" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -137,7 +81,14 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectId" id="2RY4orRR1VLQ4akRy9NnC9kKSbr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -150,7 +101,9 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/shuho/IdeaProjects/heima-leadnew/heima-leadnews/heima-leadnews-common/src/main/java/com/heima/common/constants",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -158,10 +111,28 @@
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "spring.configuration.checksum": "225dc86630d6a86e874105194b27a20e",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "spring.configuration.checksum": "10bc2f26bcae06a2af73411640735514",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shuho\IdeaProjects\heima-leadnew\heima-leadnews\heima-leadnews-common\src\main\java\com\heima\common\constants" />
+      <recent name="C:\Users\shuho\IdeaProjects\heima-leadnew\heima-leadnews\heima-leadnews-service\heima-leadnews-wemedia\src\main\java\com\heima\wemedia\service\impl" />
+      <recent name="C:\Users\shuho\IdeaProjects\heima-leadnew\heima-leadnews\heima-leadnews-service\heima-leadnews-wemedia\src\main\java\com\heima\wemedia\service" />
+      <recent name="C:\Users\shuho\IdeaProjects\heima-leadnew\heima-leadnews\heima-leadnews-service\heima-leadnews-wemedia\src\main\resources\mapper" />
+      <recent name="C:\Users\shuho\IdeaProjects\heima-leadnew\heima-leadnews\heima-leadnews-service\heima-leadnews-wemedia\src\main\java\com\heima\wemedia\mapper" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -169,70 +140,14 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArticleFreemarkerTest.createStaticUrlTest">
-    <configuration name="ArticleFreemarkerTest.createStaticUrlTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="heima-leadnews-article" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.heima.article.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.heima.article.test" />
-      <option name="MAIN_CLASS_NAME" value="com.heima.article.test.ArticleFreemarkerTest" />
-      <option name="METHOD_NAME" value="createStaticUrlTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="heima-leadnews-app-gateway" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.app.gateway.AppGatewayApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.heima.app.gateway.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArticleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="heima-leadnews-article" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.article.ArticleApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.heima.article.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="heima-leadnews-user" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.user.UserApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.heima.user.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.ArticleFreemarkerTest.createStaticUrlTest" />
-        <item itemvalue="Spring Boot.ArticleApplication" />
-        <item itemvalue="Spring Boot.UserApplication" />
-        <item itemvalue="Spring Boot.AppGatewayApplication" />
-      </list>
-    </recent_temporary>
+  <component name="RunManager" selected="Spring Boot.WemediaApplication">
+    <list>
+      <item itemvalue="Spring Boot.AppGatewayApplication" />
+      <item itemvalue="Spring Boot.ArticleApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.WemediaApplication" />
+      <item itemvalue="Spring Boot.WemediaGatewayAplication" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -244,11 +159,48 @@
       <updated>1687413861206</updated>
       <workItem from="1687413862344" duration="655000" />
       <workItem from="1687488607827" duration="626000" />
-      <workItem from="1687490307047" duration="635000" />
+      <workItem from="1687490307047" duration="1306000" />
+      <workItem from="1687580485107" duration="3902000" />
+      <workItem from="1687597742337" duration="938000" />
+      <workItem from="1687598689513" duration="2490000" />
+      <workItem from="1687601189504" duration="4765000" />
+      <workItem from="1687662210149" duration="602000" />
+      <workItem from="1687679004289" duration="4516000" />
     </task>
+    <task id="LOCAL-00001" summary="day02-app端文章查看，静态化freemarker,分布式文件系统minIO">
+      <option name="closed" value="true" />
+      <created>1687490985939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687490985939</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="day02-app端文章查看，静态化freemarker,分布式文件系统minIO" />
+    <option name="LAST_COMMIT_MESSAGE" value="day02-app端文章查看，静态化freemarker,分布式文件系统minIO" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia/src/main/java/com/heima/wemedia/interceptor/WmTokenInterceptor.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.apache.catalina.connector.RequestFacade" memberName="request" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
