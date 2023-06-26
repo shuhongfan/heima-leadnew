@@ -22,6 +22,5 @@
             <artifactId>heima-file-starter</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
-
     </dependencies>
 </project>

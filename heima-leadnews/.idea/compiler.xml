@@ -11,12 +11,13 @@
         <module name="freemarker-demo" />
         <module name="minio-demo" />
         <module name="heima-leadnews-wemedia-gateway" />
-        <module name="heima-leadnews-utils" />
         <module name="heima-leadnews-wemedia" />
         <module name="heima-leadnews-feign-api" />
-        <module name="heima-leadnews-app-gateway" />
         <module name="heima-leadnews-article" />
         <module name="heima-leadnews-user" />
+        <module name="tess4j" />
+        <module name="heima-leadnews-utils" />
+        <module name="heima-leadnews-app-gateway" />
         <module name="heima-leadnews-common" />
         <module name="heima-leadnews-model" />
       </profile>
@@ -41,6 +42,7 @@
       <module name="heima-leadnews-wemedia" options="-parameters" />
       <module name="heima-leadnews-wemedia-gateway" options="-parameters" />
       <module name="minio-demo" options="-parameters" />
+      <module name="tess4j" options="-parameters" />
     </option>
   </component>
 </project>
