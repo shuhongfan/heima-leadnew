@@ -12,6 +12,7 @@
         <module>freemarker-demo</module>
         <module>minio-demo</module>
         <module>tess4j</module>
+        <module>kafuka-demo</module>
     </modules>
     <modelVersion>4.0.0</modelVersion>
 
