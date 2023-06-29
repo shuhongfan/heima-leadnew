@@ -49,4 +49,18 @@
         limit #{dto.size}
     </select>
 
+    <select id="findArticleListByLast5days" resultMap="resultMap">
+        SELECT
+        aa.*
+        FROM
+        `ap_article` aa
+        LEFT JOIN ap_article_config aac ON aa.id = aac.article_id
+        <where>
+            and aac.is_delete != 1
+            and aac.is_down != 1
+            <if test="dayParam != null">
+                and aa.publish_time <![CDATA[>=]]> #{dayParam}
+            </if>
+        </where>
+    </select>
 </mapper>

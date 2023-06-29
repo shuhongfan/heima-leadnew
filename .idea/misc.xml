@@ -5,6 +5,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/heima-leadnews/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job/xxl-job-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job/xxl-job-core/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job/pom.xml" />
       </list>
     </option>
   </component>

@@ -24,4 +24,13 @@ public interface ApArticleService extends IService<ApArticle> {
      * @return
      */
     ResponseResult saveArticle(ArticleDto dto);
+
+    /**
+     * 加载文章列表
+     * @param dto
+     * @param type  1 加载更多   2 加载最新
+     * @param firstPage  true  是首页  flase 非首页
+     * @return
+     */
+    public ResponseResult load2(Short type,ArticleHomeDto dto,boolean firstPage);
 }

@@ -9,12 +9,15 @@
         <outputRelativeToContentRoot value="true" />
         <module name="heima-file-starter" />
         <module name="freemarker-demo" />
+        <module name="xxl-job-core" />
         <module name="heima-leadnews-wemedia-gateway" />
         <module name="minio-demo" />
         <module name="heima-leadnews-wemedia" />
+        <module name="xxl-job-executor-sample-frameless" />
         <module name="heima-leadnews-feign-api" />
         <module name="heima-leadnews-article" />
         <module name="heima-leadnews-user" />
+        <module name="xxljob-demo" />
         <module name="tess4j" />
         <module name="es-init" />
         <module name="heima-leadnews-schedule" />
@@ -25,6 +28,8 @@
         <module name="heima-leadnews-common" />
         <module name="mongo-demo" />
         <module name="heima-leadnews-model" />
+        <module name="xxl-job-admin" />
+        <module name="xxl-job-executor-sample-springboot" />
       </profile>
     </annotationProcessing>
   </component>
@@ -53,6 +58,7 @@
       <module name="minio-demo" options="-parameters" />
       <module name="mongo-demo" options="-parameters" />
       <module name="tess4j" options="-parameters" />
+      <module name="xxljob-demo" options="-parameters" />
     </option>
   </component>
 </project>
