@@ -16,17 +16,21 @@
         <module name="heima-leadnews-article" />
         <module name="heima-leadnews-user" />
         <module name="tess4j" />
+        <module name="es-init" />
         <module name="heima-leadnews-schedule" />
         <module name="heima-leadnews-utils" />
         <module name="kafuka-demo" />
         <module name="heima-leadnews-app-gateway" />
+        <module name="heima-leadnews-search" />
         <module name="heima-leadnews-common" />
+        <module name="mongo-demo" />
         <module name="heima-leadnews-model" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="es-init" options="-parameters" />
       <module name="freemarker-demo" options="-parameters" />
       <module name="heima-file-starter" options="-parameters" />
       <module name="heima-leadnews" options="-parameters" />
@@ -38,6 +42,7 @@
       <module name="heima-leadnews-gateway" options="-parameters" />
       <module name="heima-leadnews-model" options="-parameters" />
       <module name="heima-leadnews-schedule" options="-parameters" />
+      <module name="heima-leadnews-search" options="-parameters" />
       <module name="heima-leadnews-service" options="-parameters" />
       <module name="heima-leadnews-test" options="-parameters" />
       <module name="heima-leadnews-user" options="-parameters" />
@@ -46,6 +51,7 @@
       <module name="heima-leadnews-wemedia-gateway" options="-parameters" />
       <module name="kafuka-demo" options="-parameters" />
       <module name="minio-demo" options="-parameters" />
+      <module name="mongo-demo" options="-parameters" />
       <module name="tess4j" options="-parameters" />
     </option>
   </component>

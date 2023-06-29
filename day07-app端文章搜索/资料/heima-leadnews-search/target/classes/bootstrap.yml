@@ -1,0 +1,12 @@
+server:
+  port: 51804
+spring:
+  application:
+    name: leadnews-search
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.200.130:8848
+      config:
+        server-addr: 192.168.200.130:8848
+        file-extension: yml

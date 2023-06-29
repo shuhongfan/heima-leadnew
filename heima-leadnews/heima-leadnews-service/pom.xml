@@ -16,6 +16,7 @@
         <module>heima-leadnews-article</module>
         <module>heima-leadnews-wemedia</module>
         <module>heima-leadnews-schedule</module>
+        <module>heima-leadnews-search</module>
     </modules>
 
     <properties>
