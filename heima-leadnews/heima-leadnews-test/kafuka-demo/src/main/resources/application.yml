@@ -13,3 +13,6 @@ spring:
       group-id: ${spring.application.name}-test
       key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
       value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+kafka:
+  hosts: 192.168.200.130:9092
+  group: ${spring.application.name}

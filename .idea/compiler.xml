@@ -7,31 +7,38 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="heima-file-starter" />
-        <module name="freemarker-demo" />
         <module name="xxl-job-core" />
         <module name="heima-leadnews-wemedia-gateway" />
         <module name="minio-demo" />
-        <module name="heima-leadnews-wemedia" />
-        <module name="xxl-job-executor-sample-frameless" />
+        <module name="heima-leadnews-behavior" />
         <module name="heima-leadnews-feign-api" />
         <module name="heima-leadnews-article" />
-        <module name="heima-leadnews-user" />
-        <module name="xxljob-demo" />
-        <module name="tess4j" />
-        <module name="es-init" />
         <module name="heima-leadnews-schedule" />
         <module name="heima-leadnews-utils" />
-        <module name="kafuka-demo" />
-        <module name="heima-leadnews-app-gateway" />
         <module name="heima-leadnews-search" />
         <module name="heima-leadnews-common" />
-        <module name="mongo-demo" />
         <module name="heima-leadnews-model" />
         <module name="xxl-job-admin" />
         <module name="xxl-job-executor-sample-springboot" />
+        <module name="heima-file-starter" />
+        <module name="freemarker-demo" />
+        <module name="heima-leadnews-wemedia" />
+        <module name="xxl-job-executor-sample-frameless" />
+        <module name="heima-leadnews-user" />
+        <module name="heima-leadnews-admin" />
+        <module name="xxljob-demo" />
+        <module name="tess4j" />
+        <module name="es-init" />
+        <module name="heima-leadnews-comment" />
+        <module name="kafuka-demo" />
+        <module name="heima-leadnews-app-gateway" />
+        <module name="mongo-demo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="heima-leadnews-admin (1) (com.heima)" target="1.8" />
+      <module name="heima-leadnews-admin (2)" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
@@ -39,9 +46,13 @@
       <module name="freemarker-demo" options="-parameters" />
       <module name="heima-file-starter" options="-parameters" />
       <module name="heima-leadnews" options="-parameters" />
+      <module name="heima-leadnews-admin" options="-parameters" />
+      <module name="heima-leadnews-admin (1) (com.heima)" options="-parameters" />
       <module name="heima-leadnews-app-gateway" options="-parameters" />
       <module name="heima-leadnews-article" options="-parameters" />
       <module name="heima-leadnews-basic" options="-parameters" />
+      <module name="heima-leadnews-behavior" options="-parameters" />
+      <module name="heima-leadnews-comment" options="-parameters" />
       <module name="heima-leadnews-common" options="-parameters" />
       <module name="heima-leadnews-feign-api" options="-parameters" />
       <module name="heima-leadnews-gateway" options="-parameters" />

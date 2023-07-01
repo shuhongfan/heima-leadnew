@@ -1,0 +1,25 @@
+server:
+  port: 51806
+spring:
+  data:
+    mongodb:
+      host: 192.168.200.130
+      port: 27017
+      database: leadnews-comment
+  kafka:
+    bootstrap-servers: 192.168.200.130:9092
+    producer:
+      retries: 10
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+  application:
+    name: leadnews-comment
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.200.130:8848
+      config:
+        server-addr: 192.168.200.130:8848
+        file-extension: yml
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration

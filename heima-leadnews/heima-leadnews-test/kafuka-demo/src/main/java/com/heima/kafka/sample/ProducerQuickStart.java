@@ -35,8 +35,13 @@ public class ProducerQuickStart {
         KafkaProducer<String, String> producer = new KafkaProducer<String, String>(properties);
 
 //        3.发送消息
-        ProducerRecord<String, String> record = new ProducerRecord<>("topic-first", "key-001", "hello kafka");
-        producer.send(record);
+//        ProducerRecord<String, String> record = new ProducerRecord<>("topic-first", "key-001", "hello kafka");
+//        producer.send(record);
+
+        for (int i = 0; i < 5; i++) {
+            ProducerRecord<String, String> record1 = new ProducerRecord<String, String>("itcast-topic-input","hello kafka");
+            producer.send(record1);
+        }
 
 //        4.关闭消息通道
         producer.close();
